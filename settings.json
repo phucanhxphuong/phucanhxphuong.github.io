@@ -1,0 +1,15 @@
+{
+    "loading": true,
+    "load_type": "2",
+    "light_mode": false,
+    "old_version": false,
+    "avatar_decoration": {
+        "enabled": false,
+        "type": 4
+    },
+    "profile_theme": {
+        "enabled": false,
+        "primary": "#03a0ff",
+        "accent": "#294b83"
+    }
+}
